@@ -1,3 +1,2 @@
 # Huseyin Can Goktepe
-Ardinio Projesi
-Hırsız sensörü
+IseAlma,Mittelschwer,Atm 26.12.2024 de yapılmıştır.
